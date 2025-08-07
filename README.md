@@ -1,4 +1,4 @@
-本平衡小车参考b站up会飞的鱿鱼03
+本平衡小车参考b站up会飞的鱿鱼03\n
 视频如下
 https://www.bilibili.com/video/BV1Gc411v73h/?spm_id_from=333.337.search-card.all.click&vd_source=beb64341cfd158b1985800d97717b2c7
 硬件部分完全由up提供
