@@ -1,0 +1,9 @@
+本平衡小车参考b站up会飞的鱿鱼03
+视频如下
+https://www.bilibili.com/video/BV1Gc411v73h/?spm_id_from=333.337.search-card.all.click&vd_source=beb64341cfd158b1985800d97717b2c7
+硬件部分完全由up提供
+软件部分为本人模仿江科大代码风格，并使用其封装好的代码模块写的
+相关视频如下
+https://www.bilibili.com/video/BV1th411z7sn/?spm_id_from=333.337.search-card.all.click
+https://www.bilibili.com/video/BV1G9zdYQEr3/?spm_id_from=333.337.search-card.all.click
+因而代码适合看完江科大视频后想做平衡车项目的同学参考学习
